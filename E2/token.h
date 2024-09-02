@@ -1,1 +1,10 @@
 /* token.h */
+#define NUMBER  1
+#define PLUS    2
+#define MINUS   3
+#define TIMES   4
+#define DIVIDE  5
+#define OPEN_PAREN  6
+#define CLOSE_PAREN 7
+#define WHITESPACE 8
+#define ERROR 9
